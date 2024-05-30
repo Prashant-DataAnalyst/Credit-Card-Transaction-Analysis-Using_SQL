@@ -1,4 +1,4 @@
-# Credit-Card-Transaction-Analysis-Using_SQL
+# Credit-Card-Transaction-Analysis-Using-SQL
 Project Title: Credit Card Analysis using SQL
 
 Description:
